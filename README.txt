@@ -6,7 +6,7 @@ Summary of what I learned:
 git init
 git add .
 git status
-git commit -m "..."
+git commit -m "title" -m "description"
 git log or git log --oneline
 
 // To see how a certain state was and to get back to the last one
